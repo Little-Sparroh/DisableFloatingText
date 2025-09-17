@@ -9,6 +9,7 @@ using Unity.Netcode; // For NetworkBehaviour and ClientRpcParams
 using Pigeon.Movement; // For Player and ITarget
 
 [BepInPlugin("com.yourname.disablefloatingtext", "DisableFloatingText", "1.0.0")]
+[MycoMod(null, ModFlags.IsClientSide)]
 public class DisableFloatingTextMod : BaseUnityPlugin
 {
     private ConfigEntry<bool> showEnemyDamageText;
@@ -56,14 +57,14 @@ public class DisableFloatingTextMod : BaseUnityPlugin
         {
             isEnabled = !isEnabled;
             totalCleared = 0; // Reset counter on toggle
-            Logger.LogInfo($"Enemy Damage Text {(isEnabled ? "ENABLED" : "DISABLED")}.");
+            //Logger.LogInfo($"Enemy Damage Text {(isEnabled ? "ENABLED" : "DISABLED")}.");
         }
 
         // Test: Log every 60 frames to confirm Update runs
         updateFrameCounter++;
         if (updateFrameCounter % 60 == 0)
         {
-            Logger.LogInfo("Mod Update() test: Running normally.");
+            //Logger.LogInfo("Mod Update() test: Running normally.");
         }
     }
 
@@ -121,7 +122,7 @@ public class DisableFloatingTextMod : BaseUnityPlugin
     private void OnConfigEntryChanged(object sender, System.EventArgs e)
     {
         isEnabled = showEnemyDamageText.Value;
-        Logger.LogInfo($"Enemy Damage Text config updated to: {(isEnabled ? "ENABLED" : "DISABLED")}.");
+        //Logger.LogInfo($"Enemy Damage Text config updated to: {(isEnabled ? "ENABLED" : "DISABLED")}.");
     }
 
     // Backup patches (with high priority for Mono inlining) - optional, can remove if runtime works
@@ -132,7 +133,7 @@ public class DisableFloatingTextMod : BaseUnityPlugin
     {
         if (Instance != null && Time.frameCount % 120 == 0)
         {
-            Instance.Logger.LogInfo("Harmony test: Player.Update hit! Patches are working.");
+            //Instance.Logger.LogInfo("Harmony test: Player.Update hit! Patches are working.");
         }
     }
 
@@ -162,7 +163,7 @@ public class DisableFloatingTextMod : BaseUnityPlugin
         {
             // Trigger immediate hide (sync with LateUpdate)
             Instance.LateUpdate(); // Force a clear on this frame
-            Instance.Logger.LogInfo("DamageTarget postfix: Triggered immediate enemy text clear.");
+            //Instance.Logger.LogInfo("DamageTarget postfix: Triggered immediate enemy text clear.");
         }
     }
 
