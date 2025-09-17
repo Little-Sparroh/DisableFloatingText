@@ -1,0 +1,33 @@
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\bin\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\bin\Debug\net48\SpeedometerMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\Speedometer.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SpeedometerMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\bin\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\bin\Debug\net48\SpeedometerMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\Speedometer.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer\obj\Debug\net48\SpeedometerMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\Speedometer.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\obj\Debug\net48\SpeedometerMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\bin\Debug\net48\SpeedometerMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\Speedometer - Copy\bin\Debug\net48\SpeedometerMod.pdb

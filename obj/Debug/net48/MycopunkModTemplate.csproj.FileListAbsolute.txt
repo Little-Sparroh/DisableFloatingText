@@ -1,0 +1,11 @@
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\bin\Debug\net48\MycopunkModTemplate.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\bin\Debug\net48\MycopunkModTemplate.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\MycopunkModTemplate-main\obj\Debug\net48\MycopunkModTemplate.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableFloatingText", "DisableFloatingText.csproj", "{764C4E95-1CEC-118B-7DAA-F750AF6716B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myco1.0.3", "..\Myco1.0.3\Myco1.0.3.csproj", "{66575A96-FD87-0B07-3C06-AA95147E51FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MycoAssets1.0.3", "..\MycoAssets1.0.3\MycoAssets1.0.3.csproj", "{6CCE273C-0107-4DA9-B314-5000E3D8FFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764C4E95-1CEC-118B-7DAA-F750AF6716B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764C4E95-1CEC-118B-7DAA-F750AF6716B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764C4E95-1CEC-118B-7DAA-F750AF6716B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764C4E95-1CEC-118B-7DAA-F750AF6716B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66575A96-FD87-0B07-3C06-AA95147E51FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66575A96-FD87-0B07-3C06-AA95147E51FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66575A96-FD87-0B07-3C06-AA95147E51FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66575A96-FD87-0B07-3C06-AA95147E51FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCE273C-0107-4DA9-B314-5000E3D8FFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCE273C-0107-4DA9-B314-5000E3D8FFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCE273C-0107-4DA9-B314-5000E3D8FFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCE273C-0107-4DA9-B314-5000E3D8FFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21195616-551A-4992-9B64-648DE174EB10}
+	EndGlobalSection
+EndGlobal

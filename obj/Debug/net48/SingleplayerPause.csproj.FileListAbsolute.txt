@@ -1,0 +1,22 @@
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPause.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\bin\Debug\net48\SingleplayerPauseMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\bin\Debug\net48\SingleplayerPauseMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPauseMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause\obj\Debug\net48\SingleplayerPauseMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\bin\Debug\net48\SingleplayerPauseMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\bin\Debug\net48\SingleplayerPauseMod.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPause.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPauseMod.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\SingleplayerPause - Copy\obj\Debug\net48\SingleplayerPauseMod.pdb
