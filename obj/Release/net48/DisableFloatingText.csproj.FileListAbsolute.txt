@@ -1,0 +1,11 @@
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\bin\Release\net48\DisableFloatingText.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\bin\Release\net48\DisableFloatingText.pdb
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.csproj.AssemblyReference.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.IgnoresAccessChecksTo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\MyPluginInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.AssemblyInfoInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.AssemblyInfo.cs
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.csproj.CoreCompileInputs.cache
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.dll
+C:\Users\Sparroh\Documents\Mycopunk Modding\DisableFloatingText\obj\Release\net48\DisableFloatingText.pdb
