@@ -40,14 +40,12 @@ public class DisableFloatingTextMod : BaseUnityPlugin
         // Cache reflections
         poolField = typeof(DamageText).GetField("pool", BindingFlags.NonPublic | BindingFlags.Instance);
         activeTextsField = typeof(DamageText).GetField("activeTexts", BindingFlags.NonPublic | BindingFlags.Static); // If needed for direct manip
-        Logger.LogInfo($"Reflection: poolField={poolField != null}, activeTextsField={activeTextsField != null}");
+        //Logger.LogInfo($"Reflection: poolField={poolField != null}, activeTextsField={activeTextsField != null}");
 
         // Harmony for patching (kept as backup)
         var harmony = new Harmony("com.yourname.disablefloatingtext");
         harmony.PatchAll();
-        Logger.LogInfo($"Harmony created with ID: {harmony.Id}. PatchAll() called. Runtime clearance active for full coverage.");
-
-        Logger.LogInfo("DisableFloatingTextMod loaded! Press F7 to toggle enemy damage text in-game. Runtime clearance enhanced for 100% hide.");
+        Logger.LogInfo($"{harmony.Id} loaded!");
     }
 
     // F7 toggle handler (in Update)
@@ -112,7 +110,7 @@ public class DisableFloatingTextMod : BaseUnityPlugin
                 {
                     log += $" Types: {targetTypes.TrimEnd(',', ' ')}";
                 }
-                Logger.LogInfo(log);
+                //Logger.LogInfo(log);
                 lastClearLogTime = Time.time;
             }
         }
@@ -148,7 +146,7 @@ public class DisableFloatingTextMod : BaseUnityPlugin
 
         string targetType = target?.GetType().Name ?? "Unknown";
         bool isPlayer = (target is Player);
-        Instance.Logger.LogInfo($"IDamageSource.DamageTarget called - Target: {targetType}, IsPlayer: {isPlayer}, Enabled: {Instance.isEnabled}, Damage: {damage.damage}");
+        //Instance.Logger.LogInfo($"IDamageSource.DamageTarget called - Target: {targetType}, IsPlayer: {isPlayer}, Enabled: {Instance.isEnabled}, Damage: {damage.damage}");
 
         return true;
     }
