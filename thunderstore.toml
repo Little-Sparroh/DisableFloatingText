@@ -3,9 +3,9 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "Sparroh"
-name = "DusableFloatingText"
-description = "Toggle to disable floating text from damage with F7."
-websiteUrl = "https://github.com/funlennysub/MycopunkModTemplate"
+name = "DisableFloatingText"
+description = "Toggle to disable floating text from damage with 'F7'."
+websiteUrl = "https://github.com/Little-Sparroh/DisableFloatingText"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -17,7 +17,7 @@ readme = "README.md"
 outdir = "build"
 
 [[build.copy]]
-source = "bin/Debug/net48/DisableFloatingText.dll"
+source = "bin/Release/net48/DisableFloatingText.dll"
 target = "BepInEx/plugins/DisableFloatingText.dll"
 
 [[build.copy]]
